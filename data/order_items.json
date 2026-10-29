@@ -1,0 +1,58 @@
+[
+  {
+    "order_id": 1,
+    "product_id": 9,
+    "product_name": "Test Hammer 2",
+    "qty": 1,
+    "price": 1300,
+    "id": 1
+  },
+  {
+    "order_id": 2,
+    "product_id": 8,
+    "product_name": "Safety Boots Steel Toe",
+    "qty": 1,
+    "price": 3800,
+    "id": 2
+  },
+  {
+    "order_id": 3,
+    "product_id": 8,
+    "product_name": "Safety Boots Steel Toe",
+    "qty": 1,
+    "price": 3800,
+    "id": 3
+  },
+  {
+    "order_id": 3,
+    "product_id": 7,
+    "product_name": "Mild Steel Plate 3mm 4x8ft",
+    "qty": 1,
+    "price": 7500,
+    "id": 4
+  },
+  {
+    "order_id": 4,
+    "product_id": 7,
+    "product_name": "Mild Steel Plate 3mm 4x8ft",
+    "qty": 1,
+    "price": 7500,
+    "id": 5
+  },
+  {
+    "order_id": 5,
+    "product_id": 4,
+    "product_name": "Auto-Dark Welding Helmet",
+    "qty": 1,
+    "price": 4500,
+    "id": 6
+  },
+  {
+    "order_id": 6,
+    "product_id": 6,
+    "product_name": "Cutting Disc 9 inch (5pcs)",
+    "qty": 1,
+    "price": 900,
+    "id": 7
+  }
+]

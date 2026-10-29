@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Digital Vernier Caliper 150mm",
+    "category": "Workshop Tools",
+    "price": 2500,
+    "stock": 12,
+    "image_url": "",
+    "specs": "0-150mm | 0.01mm | SS",
+    "description": "Precision measurement for workshop and students",
+    "icon": "fa-ruler-combined"
+  },
+  {
+    "id": 2,
+    "name": "Ball Bearing 6205 ZZ",
+    "category": "Bearings & Fasteners",
+    "price": 650,
+    "stock": 50,
+    "image_url": "",
+    "specs": "25x52x15mm | 14kN",
+    "description": "High carbon steel for motors, posho mills",
+    "icon": "fa-gear"
+  },
+  {
+    "id": 3,
+    "name": "Welding Electrodes E6013 5kg",
+    "category": "Fabrication Materials",
+    "price": 1800,
+    "stock": 30,
+    "image_url": "",
+    "specs": "3.2mm | 5kg | Mild Steel",
+    "description": "General purpose welding rods",
+    "icon": "fa-fire"
+  },
+  {
+    "id": 4,
+    "name": "Auto-Dark Welding Helmet",
+    "category": "Safety & PPE",
+    "price": 4500,
+    "stock": 9,
+    "image_url": "",
+    "specs": "Shade 9-13 | Solar Power",
+    "description": "Professional safety helmet",
+    "icon": "fa-helmet-safety"
+  },
+  {
+    "id": 5,
+    "name": "Engineering Drawing Set",
+    "category": "Student Kits",
+    "price": 1200,
+    "stock": 40,
+    "image_url": "",
+    "specs": "8 pcs | Compass Set",
+    "description": "Complete set for ME students",
+    "icon": "fa-pen-ruler"
+  },
+  {
+    "id": 6,
+    "name": "Cutting Disc 9 inch (5pcs)",
+    "category": "Fabrication Materials",
+    "price": 900,
+    "stock": 59,
+    "image_url": "",
+    "specs": "230mm | 6600 RPM",
+    "description": "Metal cutting discs for grinder",
+    "icon": "fa-circle-notch"
+  },
+  {
+    "id": 7,
+    "name": "Mild Steel Plate 3mm 4x8ft",
+    "category": "Fabrication Materials",
+    "price": 7500,
+    "stock": 8,
+    "image_url": "",
+    "specs": "3mm | 4x8ft | Grade MS",
+    "description": "For gates, tanks fabrication",
+    "icon": "fa-table-cells"
+  },
+  {
+    "id": 8,
+    "name": "Safety Boots Steel Toe",
+    "category": "Safety & PPE",
+    "price": 3800,
+    "stock": 16,
+    "image_url": "",
+    "specs": "Size 39-45 | Steel Toe",
+    "description": "Workshop safety boots",
+    "icon": "fa-shoe-prints"
+  }
+]

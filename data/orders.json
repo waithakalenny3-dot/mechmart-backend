@@ -1,0 +1,56 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "0712345678",
+    "address": "Kutus",
+    "payment_method": "M-Pesa",
+    "total": 1300,
+    "status": "pending",
+    "id": 1
+  },
+  {
+    "name": "Lenny Waithaka",
+    "phone": "0795795912",
+    "address": "",
+    "payment_method": "M-Pesa",
+    "total": 3800,
+    "status": "pending",
+    "id": 2
+  },
+  {
+    "name": "Lenny Waithaka",
+    "phone": "0795795912",
+    "address": "",
+    "payment_method": "M-Pesa",
+    "total": 11300,
+    "status": "pending",
+    "id": 3
+  },
+  {
+    "name": "Lenny Waithaka",
+    "phone": "0795795912",
+    "address": "",
+    "payment_method": "Cash on Delivery",
+    "total": 7500,
+    "status": "pending",
+    "id": 4
+  },
+  {
+    "name": "Lenny Waithaka",
+    "phone": "0795795912",
+    "address": "",
+    "payment_method": "M-Pesa",
+    "total": 4500,
+    "status": "pending",
+    "id": 5
+  },
+  {
+    "name": "Lenny Waithaka",
+    "phone": "0795795912",
+    "address": "",
+    "payment_method": "M-Pesa",
+    "total": 900,
+    "status": "pending",
+    "id": 6
+  }
+]
