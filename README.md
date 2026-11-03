@@ -151,4 +151,4 @@ MIT
 
 ---
 
-**MechMart © 2026** | Group Members: [Add Names & Admission Nos] | Value: Product Sales + Services + Delivery
+**MechMart © 2026** | LENNY GACHOKA | Value: Product Sales + Services + Delivery
