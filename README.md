@@ -103,7 +103,7 @@ mechmart-backend/
 
 After first run, the database seeds a default admin account:
 - **Username:** `admin`
-- **Password:** `admin123` (change this in `.env` before production)
+- **Password:** `********` (change this in `.env` before production)
 
 ## Environment Variables
 
